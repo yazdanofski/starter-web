@@ -7,7 +7,8 @@ the Pupose is nothing but learning git and Github
 ## Deployment
 this is Deployment instruction
 ## How to Contribute
-this will show how to Contribute
+this will show how to Contribute for example.
 
 ##Copy right
 2023 git.training
+
