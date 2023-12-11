@@ -5,5 +5,6 @@ this is an Introduction
 ## Pupose
 the Pupose is nothing but learning git and Github
 ## Deployment
-
+this is Deployment instruction
 ## How to Contribute
+this will show how to Contribute
